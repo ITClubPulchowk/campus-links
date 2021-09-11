@@ -9,7 +9,11 @@ Collection of links/resources related to Pulchowk Campus, IOE. For contribution 
 
 ## Administration
 - [Institute of Engineering](https://ioe.edu.np/) - Primary website on Institute of Engineering (IOE) that has information on it's undergraduate, graduate and post graduate programs, affiliated and constituent colleges, research centres, news and more. Pulchowk Campus is a constituent campus under IOE. 
+- [Institute of Engineering, Entrance Examination Board](https://entrance.ioe.edu.np/) - Primary website of Entrance Examination Board, IOE that contains student registration portal for entrance examination, notice about upcoming entrance exams and score cards of  entrance appeared students after the result is published.
 - [Pulchowk Campus (PCampus)](https://pcampus.edu.np/) - The primary website of Pulchowk Campus that includes details on academics, admission, departments, notices, about and more.
+- [Pulchowk Campus, Department of Civil Engineering](https://civil.pcampus.edu.np/) - Primary website of Department of Civil Engineering, Pulchowk Campus. 
+- [Pulchowk Campus, Department of Electronics and Computer Engineering](https://doece.pcampus.edu.np/) - Primary website of Department of Electronics and Computer Engineering, Pulchowk Campus.
+- [Pulchowk Campus, Department of Mechanical and Aerospace Engineering](https://mech.pcampus.edu.np/) - Primary website of Department of Mechanical and Aerospace Engineering, Pulchowk Campus.
 - [Tribhuwan University](https://tribhuvan-university.edu.np/) - Primary website of Tribhuwan University (TU) under which Pulchowk Campus, IOE is recognized. Site content includes information on TU committee, central offices, institutes under TU, research centres and more.
 
 ## Campus Clubs
@@ -21,6 +25,7 @@ Collection of links/resources related to Pulchowk Campus, IOE. For contribution 
 ## Miscellaneous
 
 - [E-Library](http://pulchowk.elibrary.edu.np/) - E-Library for Pulchowk Campus, allows campus students to check their book renewal status, due dates and fines.
+- [LAN Account](https://mis.pcampus.edu.np/user_portal/) - Change the credential of internet account used inside campus.
 
 ---
 
