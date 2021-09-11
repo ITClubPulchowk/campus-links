@@ -16,6 +16,7 @@ Collection of links/resources related to Pulchowk Campus, IOE. For contribution 
 
 - [IT Club Pulchowk](https://github.com/IT-Club-Pulchowk/) - IT Club Pulchowk is a campus club of Pulchowk Campus, IOE that has been formed in order to develop an IT culture and promote collaboration in computer science projects among the campus students. | [Facebook](https://www.facebook.com/IT-Club-Pulchowk-102974158601192/) | [Twitter](https://twitter.com/ITClubPulchowk) | [YouTube](https://www.youtube.com/c/ITClubPulchowk) |
 - [LOCUS](https://locus.pcampus.edu.np/) - LOCUS is an umbrella organization led by undergraduate students of Electrical, Electronics, and Computer Engineering departments from IOE, Pulchowk Campus. | [Facebook](https://www.facebook.com/locus.ioe) | [Twitter](https://twitter.com/locus_ioe) | [Instagram](https://www.instagram.com/locus_ioe/) | [LinkedIn](https://www.linkedin.com/company/locusioe/) |
+- [Robotics Club](https://robotics.pcampus.edu.np/) - Robotics Club, Pulchowk is a campus club of Pulchowk Campus, IOE that has been formed in order to work in the field of robotics and also  generate interest in robotics in the community. The club also carries the responsibility of building the robots for the Asia-Pacific robot contest (ABU RoboCon). | [Facebook](https://www.facebook.com/roboticsclubpulchowk) | [Instagram](https://www.instagram.com/roboticclub_pulchowk_campus/) | [LinkedIn](https://www.linkedin.com/company/robotics-club-ioe-pulchowk-campus/) |
 
 ## Miscellaneous
 
