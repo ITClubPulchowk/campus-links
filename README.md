@@ -3,14 +3,12 @@
 Collection of links/resources related to Pulchowk Campus, IOE. For contribution guidelines, see the [contributing](https://github.com/IT-Club-Pulchowk/campus-links#contributing) section below.
 
 ## Table of Contents
-
 1. [Administration](https://github.com/IT-Club-Pulchowk/campus-links#administration)
 2. [Campus Clubs](https://github.com/IT-Club-Pulchowk/campus-links#campus-clubs)
 3. [Miscellaneous](https://github.com/IT-Club-Pulchowk/campus-links#miscellaneous)
 
 ## Administration
-
-- [Institute of Engineering](https://ioe.edu.np/) - Primary website on Institute of Engineering (IOE) that has information on it's undergraduate, graduate and post graduate programs, affiliated and constituent colleges, research centres, news and more. Pulchowk Campus is a constituent campus under IOE. 
+- <a href="https://ioe.edu.np/" target="_blank">Institute of Engineering</a> - Primary website on Institute of Engineering (IOE) that has information on it's undergraduate, graduate and post graduate programs, affiliated and constituent colleges, research centres, news and more. Pulchowk Campus is a constituent campus under IOE. 
 - [Pulchowk Campus (PCampus)](https://pcampus.edu.np/) - The primary website of Pulchowk Campus that includes details on academics, admission, departments, notices, about and more.
 - [Tribhuwan University](https://tribhuvan-university.edu.np/) - Primary website of Tribhuwan University (TU) under which Pulchowk Campus, IOE is recognized. Site content includes information on TU committee, central offices, institutes under TU, research centres and more.
 
