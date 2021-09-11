@@ -8,7 +8,7 @@ Collection of links/resources related to Pulchowk Campus, IOE. For contribution 
 3. [Miscellaneous](https://github.com/IT-Club-Pulchowk/campus-links#miscellaneous)
 
 ## Administration
-- <a href="https://ioe.edu.np/" target="_blank">Institute of Engineering</a> - Primary website on Institute of Engineering (IOE) that has information on it's undergraduate, graduate and post graduate programs, affiliated and constituent colleges, research centres, news and more. Pulchowk Campus is a constituent campus under IOE. 
+- [Institute of Engineering](https://ioe.edu.np/) - Primary website on Institute of Engineering (IOE) that has information on it's undergraduate, graduate and post graduate programs, affiliated and constituent colleges, research centres, news and more. Pulchowk Campus is a constituent campus under IOE. 
 - [Pulchowk Campus (PCampus)](https://pcampus.edu.np/) - The primary website of Pulchowk Campus that includes details on academics, admission, departments, notices, about and more.
 - [Tribhuwan University](https://tribhuvan-university.edu.np/) - Primary website of Tribhuwan University (TU) under which Pulchowk Campus, IOE is recognized. Site content includes information on TU committee, central offices, institutes under TU, research centres and more.
 
@@ -26,10 +26,11 @@ Collection of links/resources related to Pulchowk Campus, IOE. For contribution 
 ## Contributing
 
 Make sure to consider a few pointers while contributing to this list,
+- Keep the entries in the format - `[name](primary-link-url) - description | [optional-secondary-link](optional-seondary-link-url) |`
 - Add items under their respective category.
 - Make sure your entry is alphabetically ordered (for eg, IOE comes before TU). 
 - Any secondary links (eg, social medial links) are to be added at the end separated by `|` symbol.
 - For description, limit it within 280 characters i.e. Twitter character count.
 - If you want to add a new category, add the title under `##` header level. DO NOT MODIFY THE TABLE OF CONTENTS. The repository maintainer will update the table of contents if new categories are added.
-- If you are a member of IT Club Pulchowk GitHub Organization you can update this README directly. If not, make sure to make a PR with your changes, we will try our best to review it ASAP. 
+- Make a PR with your changes, we will try our best to review it as soon as possible. 
 
