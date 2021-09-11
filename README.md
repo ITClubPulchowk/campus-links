@@ -1,12 +1,12 @@
 # Campus Links
 
-Collection of links/resources related to Pulchowk Campus, IOE. For contribution guidelines, see the [contributing](https://github.com/IT-Club-Pulchowk/campus-links/blob/main/README.md#contributing) section below.
+Collection of links/resources related to Pulchowk Campus, IOE. For contribution guidelines, see the [contributing](https://github.com/IT-Club-Pulchowk/campus-links#contributing) section below.
 
 ## Table of Contents
 
-1. [Administration](https://github.com/IT-Club-Pulchowk/campus-links/blob/main/README.md#administration)
-2. [Campus Clubs](https://github.com/IT-Club-Pulchowk/campus-links/blob/main/README.md#campus-clubs)
-3. [Miscellaneous](https://github.com/IT-Club-Pulchowk/campus-links/blob/main/README.md#miscellaneous)
+1. [Administration](https://github.com/IT-Club-Pulchowk/campus-links#administration)
+2. [Campus Clubs](https://github.com/IT-Club-Pulchowk/campus-links#campus-clubs)
+3. [Miscellaneous](https://github.com/IT-Club-Pulchowk/campus-links#miscellaneous)
 
 ## Administration
 
