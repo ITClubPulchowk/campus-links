@@ -1,5 +1,6 @@
-# campus-links
-Collection of links/resources related to Pulchowk Campus, IOE.
+# Campus Links
+
+Collection of links/resources related to Pulchowk Campus, IOE. For contribution guidelines, see the [contributing](https://github.com/IT-Club-Pulchowk/campus-links/blob/main/README.md#contributing) section below.
 
 ## Table of Contents
 
@@ -9,9 +10,9 @@ Collection of links/resources related to Pulchowk Campus, IOE.
 
 ## Administration
 
+- [Institute of Engineering](https://ioe.edu.np/) - Primary website on Institute of Engineering (IOE) that has information on it's undergraduate, graduate and post graduate programs, affiliated and constituent colleges, research centres, news and more. Pulchowk Campus is a constituent campus under IOE. 
 - [Pulchowk Campus (PCampus)](https://pcampus.edu.np/) - The primary website of Pulchowk Campus that includes details on academics, admission, departments, notices, about and more.
 - [Tribhuwan University](https://tribhuvan-university.edu.np/) - Primary website of Tribhuwan University (TU) under which Pulchowk Campus, IOE is recognized. Site content includes information on TU committee, central offices, institutes under TU, research centres and more.
-- [Institute of Engineering](https://ioe.edu.np/) - Primary website on Institute of Engineering (IOE) that has information on it's undergraduate, graduate and post graduate programs, affiliated and constituent colleges, research centres, news and more. Pulchowk Campus is a constituent campus under IOE. 
 
 ## Campus Clubs
 
@@ -21,4 +22,16 @@ Collection of links/resources related to Pulchowk Campus, IOE.
 ## Miscellaneous
 
 - [E-Library](http://pulchowk.elibrary.edu.np/) - E-Library for Pulchowk Campus, allows campus students to check their book renewal status, due dates and fines.
+
+---
+
+## Contributing
+
+Make sure to consider a few pointers while contributing to this list,
+- Add items under their respective category.
+- Make sure your entry is alphabetically ordered (for eg, IOE comes before TU). 
+- Any secondary links (eg, social medial links) are to be added at the end separated by `|` symbol.
+- For description, limit it within 280 characters i.e. Twitter character count.
+- If you want to add a new category, add the title under `##` header level. DO NOT MODIFY THE TABLE OF CONTENTS. The repository maintainer will update the table of contents if new categories are added.
+- If you are a member of IT Club Pulchowk GitHub Organization you can update this README directly. If not, make sure to make a PR with your changes, we will try our best to review it ASAP. 
 
