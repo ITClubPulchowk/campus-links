@@ -14,7 +14,6 @@ Collection of links/resources related to Pulchowk Campus, IOE. For contribution 
 - [Pulchowk Campus, Department of Civil Engineering](https://civil.pcampus.edu.np/) - Primary website of Department of Civil Engineering, Pulchowk Campus. 
 - [Pulchowk Campus, Department of Electronics and Computer Engineering](https://doece.pcampus.edu.np/) - Primary website of Department of Electronics and Computer Engineering, Pulchowk Campus.
 - [Pulchowk Campus, Department of Mechanical and Aerospace Engineering](https://mech.pcampus.edu.np/) - Primary website of Department of Mechanical and Aerospace Engineering, Pulchowk Campus.
-- [Pulchowk Campus Uploaded Documents](https://pcampus.edu.np/downloads/) -  All the uploaded files in the pcampus site indexed yearwise from 2071 BS.
 - [Tribhuwan University](https://tribhuvan-university.edu.np/) - Primary website of Tribhuwan University (TU) under which Pulchowk Campus, IOE is recognized. Site content includes information on TU committee, central offices, institutes under TU, research centres and more.
 
 ## Campus Clubs
@@ -27,6 +26,7 @@ Collection of links/resources related to Pulchowk Campus, IOE. For contribution 
 
 - [E-Library](http://pulchowk.elibrary.edu.np/) - E-Library for Pulchowk Campus, allows campus students to check their book renewal status, due dates and fines.
 - [LAN Account](https://mis.pcampus.edu.np/user_portal/) - Change the credential of internet account used inside campus.
+- [Pulchowk Campus Uploaded Documents](https://pcampus.edu.np/downloads/) -  All the uploaded files in the pcampus site indexed yearwise from 2071 BS.
 
 ---
 
